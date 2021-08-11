@@ -21,4 +21,4 @@ washington.csv
 
 ### Credits
 This project was given by Udacity as part of their course
-Programming for Data Science with Python.
+Programming for Data Science with Python. Thanks Udacity!
