@@ -99,7 +99,7 @@ def load_data(city, month, day):
         df = df[df['Day of Week'] == day.title()]
     return df
 
-
+    # Loads raw data in sets of five
 def display_raw_data(df):
     """ Your docstring here """
     i = 0
