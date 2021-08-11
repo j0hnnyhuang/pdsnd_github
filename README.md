@@ -1,6 +1,3 @@
-### Date created
-August 11, 2021
-
 ### Project Title
 Exploring US Bikeshare Data
 
@@ -12,6 +9,9 @@ City, Washington) and if you want to filter by month, day, or neither. Based on
 those inputs, the program will allow you to see the actual data from the first
 six months of 2017, along with certain statistics that may be beneficial to the
 user. Check it out for yourself!
+
+### Date created
+August 11, 2021
 
 ### Files used
 final_bikeshare_proj.py
